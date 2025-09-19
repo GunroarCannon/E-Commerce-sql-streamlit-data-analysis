@@ -242,6 +242,7 @@ name, authentication_status, username = authenticator.login("Login", "main")
 
 bash
 git clone https://github.com/GunroarCannon/E-Commerce-sql-streamlit-data-analysis.git
+
 cd E-Commerce-sql-streamlit-data-analysis
 
 
@@ -286,9 +287,3 @@ streamlit run dashboards/main.py
 ## License
 
 This project is licensed under the MIT License.
-
----
-
-If you want, I can *also create a ready-to-run “Colab + Streamlit + Ngrok” notebook setup* for this README so that anyone can click and run the full ETL + dashboard with auth. It would include all snippets and the warehouse in one.
-
-Do you want me to do that next?
