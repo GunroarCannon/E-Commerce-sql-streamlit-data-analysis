@@ -241,8 +241,8 @@ name, authentication_status, username = authenticator.login("Login", "main")
 1. Clone the repository:
 
 bash
-git clone https://github.com/yourusername/ecommerce-dw.git
-cd ecommerce-dw
+git clone https://github.com/GunroarCannon/E-Commerce-sql-streamlit-data-analysis.git
+cd E-Commerce-sql-streamlit-data-analysis
 
 
 2. Install dependencies:
