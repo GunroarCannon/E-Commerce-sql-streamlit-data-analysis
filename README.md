@@ -1,5 +1,10 @@
 # E-Commerce Data Warehouse & Advanced Analytics Platform
 
+*Disclaimer:Streamlit section of project works, and ETL/SQL/dataset section work but not together as colab couldn't load the datasets with streamlit (was taking a long time) when everything was pasted into one file or seperated and used like a file system with %%writefile.*
+
+*E-Commerce-filesystem has all important code blocks using %%writefile. Various files are app.py, dataloader.py, schema.py and model.py*
+
+
 ## Table of Contents
 
 1. [Project Overview](#project-overview)
